@@ -25,8 +25,8 @@ https://www.aliexpress.com/item/32819337715.html
 0,79$ with shipping include        
 
   - 1X PCB        
-https://jlcpcb.com/        
-$8.13 with shipping include (For 5X PCB)        
+https://www.pcbway.com/project/shareproject/PS1_to_NEOGEO__or_Jamma__Controller.html    
+$10 with shipping include (For 5X PCB)        
 
  - FOR MVS CONSOLIZED with DB15 MALE not on mainboard ONLY :        
 1X DR15 DB15 D-SUB Angle Angled 15 Pin Female Male PCB Mount Socket Connector        
